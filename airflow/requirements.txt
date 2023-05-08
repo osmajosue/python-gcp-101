@@ -1,0 +1,10 @@
+pandas
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pymongo
+mysqlclient
+mysql-connector-python
+google-cloud-storage
+google-cloud-bigquery
+google-auth
